@@ -1,7 +1,8 @@
 # Robobros-react-redux-app
 A friendly web-page with all your read robots.
 
-The app:
+The app link: *to be added*
+
 
 App made in react + redux which displays a bunch of robots with info provided by a free api:
 
